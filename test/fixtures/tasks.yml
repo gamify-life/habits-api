@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ad: MyString
+  name: MyString
+  target_count: 1
+  start_date: MyString
+  duration: 1
+
+two:
+  ad: MyString
+  name: MyString
+  target_count: 1
+  start_date: MyString
+  duration: 1
