@@ -42,4 +42,5 @@ end
 # gem 'capistrano', group: :development
 
 # Use debugger
-# gem 'debugger', group: [:development, :test]
+gem 'pry', group: [:development, :test]
+gem "koala", "~> 1.8.0rc1"
